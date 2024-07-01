@@ -13,7 +13,7 @@
 - ipykernel
 - tqdm
 - pandas
-- cv2
+- cv2 >> IF YOU WANT TO INSTALL CV2, TYPE "pip install opencv-python"
 
 # File structure
 
